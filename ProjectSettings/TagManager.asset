@@ -8,6 +8,7 @@ TagManager:
   - finish
   - trap
   - checkpoint1
+  - Ball
   layers:
   - Default
   - TransparentFX
