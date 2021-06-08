@@ -8,10 +8,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/arena2.unity
     guid: ab20146014dc4fc40b9155c87ddee467
-  - enabled: 1
-    path: Assets/lvl1.unity
-    guid: ec3acddb1061abd49812b4b6f3afa18b
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/gameover.unity
     guid: c971b984444920642b2d9f02f2c9945f
+  - enabled: 1
+    path: Assets/menu.unity
+    guid: 45e35ca7332d93b468efd355a9c79788
+  - enabled: 1
+    path: Assets/level.unity
+    guid: de85c5ccf52d3aa4f8460f20c5bd2e12
+  - enabled: 1
+    path: Assets/about.unity
+    guid: dbbfa192da548fc47b43792b0760d873
+  - enabled: 1
+    path: Assets/arena1.unity
+    guid: 31e7a7e59a0006f429250971da7d2e98
+  - enabled: 1
+    path: Assets/how to play.unity
+    guid: 718a381593e0bdd47bf5011ae1fbfdc9
   m_configObjects: {}
