@@ -21,8 +21,10 @@ public class Finish : MonoBehaviour
 	}
 
     private void OnTriggerEnter(Collider other) {
-        if(other.gameObject.CompareTag("finish")){
-            MENU_ACTION_GotoPage ("gameover");
+        if(other.gameObject.CompareTag("Finish")){
+            MENU_ACTION_GotoPage ("lvlComplete");
+        }else if(other.gameObject.CompareTag("finish")){
+            MENU_ACTION_GotoPage ("congrats");
         }
     }
 }

@@ -29,4 +29,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/how to play.unity
     guid: 718a381593e0bdd47bf5011ae1fbfdc9
+  - enabled: 1
+    path: Assets/lvlComplete.unity
+    guid: 7c4481cfee609e34da843de86cc1ac48
+  - enabled: 1
+    path: Assets/congrats.unity
+    guid: bb878bdb21150ab40850dbd984aac8cc
   m_configObjects: {}
